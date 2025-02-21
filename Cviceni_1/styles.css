@@ -1,0 +1,19 @@
+.font1{
+    font-family: 'Arial';
+}
+.font2{
+    font-family: 'Comic sans';
+}
+.font3{
+    font-family:'Courier New';
+}
+img{
+    width: 40%;
+    height: 25%;
+}
+.btext{
+    color: chocolate;
+}
+body{
+    background-color: aqua;  
+}
